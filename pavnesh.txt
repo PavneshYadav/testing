@@ -10,11 +10,9 @@ ho abt u?
 
 12
 12
-<<<<<<< HEAD
+
 7777777777
-=======
 432422433432
->>>>>>> 17925359b1f9a7957b5f34db68d2a29d8aa80d5a
 13
 so i guess we have successfully learn git to certain extend
 
