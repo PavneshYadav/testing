@@ -8,4 +8,8 @@ I hope you are fine?
 yes all well 
 ho abt u?
 
+<<<<<<< HEAD
 so i guess we have successfully learn git to certain extend
+=======
+DONTd
+>>>>>>> 9586420a727c0b4fb35333885c884abe8e096dbf
