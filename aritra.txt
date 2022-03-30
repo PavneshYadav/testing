@@ -4,14 +4,13 @@ how can i help you?
 just wanted to know about git
 
 
-<<<<<<< HEAD
 This is the thrid time testing git pull action
 
 So now come the 4th time testing cycle
-=======
+
 This is the thrid time testing git pull action 
 sfsdf
 ds
 
 sfsdf
->>>>>>> 9586420a727c0b4fb35333885c884abe8e096dbf
+
