@@ -1,4 +1,9 @@
 hello pavnesh
+<<<<<<< HEAD
 HI
 DONT WORRY 
 ALL GOOD
+=======
+how are you?
+I hope you are fine?
+>>>>>>> b1f45824fd33c550ca2364a8c10b73c30760e07b
